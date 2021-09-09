@@ -1,0 +1,2 @@
+Ở yêu cầu 8: sử dụng lệnh git checkout -b feature-namvh-rebase
+Ở yêu cầu 14: sử dụng lệnh git merge feature-namvh 
